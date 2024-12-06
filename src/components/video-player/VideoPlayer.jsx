@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import './VideoPlayer.css';
+import './VideoPlayer.css'; // :)
 import video from '../../assets/sus.mp4';
 
 function VideoPlayer({playState, setPlayState}) {
