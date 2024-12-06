@@ -1,14 +1,14 @@
 import React, { useState } from "react";
-import Navbar from "./components/navbar/navbar";
+import Navbar from "./components/navbar/Navbar";
 import Hero from "./components/hero/Hero";
 import Programs from "./components/programs/Programs";
-import Title from "./components/Title/Title";
-import About from "./components/about/about";
-import Campus from "./components/campus/campus";
+import Title from "./components/title/Title";
+import About from "./components/about/About";
+import Campus from "./components/campus/Campus";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
-import VideoPlayer from "./components/video player/VideoPlayer";
+import VideoPlayer from "./components/video-player/VideoPlayer";
 
 function App() {
 
