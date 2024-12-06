@@ -8,7 +8,7 @@ import Campus from "./components/campus/Campus";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
-import VideoPlayer from "./components/video-player/VideoPlayer";
+import VideoPlayer from "./components/video/Video";
 
 function App() {
 
